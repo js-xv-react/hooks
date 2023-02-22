@@ -9,7 +9,7 @@ const Counter1 = () => {
   //     console.log("Render");
   //   });
 
-  //   componentDidMount
+  //   componentDidMount - komponenta se upisala u DOM
   useEffect(() => {
     console.log("Mount");
   }, []);
